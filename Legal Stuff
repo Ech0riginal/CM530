@@ -1,0 +1,27 @@
+LEGAL STUFF
+ 'Dynamixel' is property of Robotis, Inc.
+    http://www.robotis.com
+
+Copyright (c) 2011, 2012 Matthew Paulishen. All rights reserved.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Most of the functions and library stuffs contained in
+this project are Copyright (c) 2011, 2012 Matthew Paulishen.
+This project and its predecessors are for educational purposes
+ONLY. Any file not labeled 'By Sam Watkins' or the same
+format with a different name is Copyrighted to Matthew
+Paulishen. Specifically: the cm530.c, cm530.h,
+dynamixel_address_tables.h, and edits to the stm32f10x
+library are his and his alone. No edits have been made by
+NOHS' EC Robotics team.
